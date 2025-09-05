@@ -1,0 +1,7 @@
+streamlit
+statsbombpy
+mplsoccer
+matplotlib
+pandas
+numpy
+requests_cache
